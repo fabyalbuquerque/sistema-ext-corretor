@@ -1,5 +1,5 @@
 import customtkinter as ctk
-from customtkinter import *
+from tkinter import *
 
 class App(ctk.CTk):
     def __init__(self):
